@@ -1,0 +1,6 @@
+1. function that generate underscores as clues(for example, if the word is pizza, the clue is _ _ _ _ _)
+2. If the player gusses a correct word, an updated clue should be returned(for example, I chose the word p, the updated clue is p _ _ _ _)
+
+
+1. Each correct letter gussed is worth 10 points
+2. Users have 10 trials to guess the letters
